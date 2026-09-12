@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy>=1.26
+pillow>=10.0
+torch>=2.2
+torchvision>=0.17
