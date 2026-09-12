@@ -13,7 +13,10 @@ par fine-tuning ciblé d'un **Faster R-CNN** pré-entraîné sur COCO.
 > [`gradientforge`](https://github.com/Julionores/gradientforge),
 > [`radar-risque-impaye`](https://github.com/Julionores/radar-risque-impaye),
 > [`collecte-agricole-planner`](https://github.com/Julionores/collecte-agricole-planner),
-> [`ticket-tide`](https://github.com/Julionores/ticket-tide), et l'ensemble du portfolio :
+> [`ticket-tide`](https://github.com/Julionores/ticket-tide),
+> [`runbook-rag`](https://github.com/Julionores/runbook-rag),
+> [`agent-matching-recrutement`](https://github.com/Julionores/agent-matching-recrutement), et
+> l'ensemble du portfolio :
 > [`devsecops-pipeline-reference`](https://github.com/Julionores/devsecops-pipeline-reference),
 > [`securebank-api`](https://github.com/Julionores/securebank-api),
 > [`postgresql-ha-repmgr`](https://github.com/Julionores/postgresql-ha-repmgr),
