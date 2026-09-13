@@ -21,6 +21,7 @@ par fine-tuning ciblé d'un **Faster R-CNN** pré-entraîné sur COCO.
 > [`securebank-api`](https://github.com/Julionores/securebank-api),
 > [`postgresql-ha-repmgr`](https://github.com/Julionores/postgresql-ha-repmgr),
 > [`iso27001-isms-toolkit`](https://github.com/Julionores/iso27001-isms-toolkit),
+> [`homelab-attaque-detection`](https://github.com/Julionores/homelab-attaque-detection),
 > [`dynamodb-streams-cdc-pipeline`](https://github.com/Julionores/dynamodb-streams-cdc-pipeline),
 > [`aws-troubleshooting-challenge`](https://github.com/Julionores/aws-troubleshooting-challenge),
 > [`s3-cross-region-replication`](https://github.com/Julionores/s3-cross-region-replication),
